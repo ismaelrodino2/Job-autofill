@@ -1,0 +1,35 @@
+const makeOperation = require("../findInput");
+const makeOperationInclude = require("../findInputInclude");
+
+async function Phone(pageInstance) {
+
+  const targetValues = [
+    "phone",
+    "inputTel",
+    "phoneNumber",
+    "phone-number",
+    "tel",
+    "phone-number-input",
+    "personal-info-phone-input",
+    "candidate.phone",
+    "inputTel",
+    "cellPhone",
+    "mp_phone_number"
+  ];
+
+  try {
+    const inputElement = await makeOperationInclude(targetValues, pageInstance)
+    if (inputElement) {
+      // Input element found, do something with it
+      // For example, you can click or type in the input field
+      await inputElement.click();
+      await inputElement.type(process.env.PHONE);
+    } else {
+      console.log("Input number element not found.");
+    }
+  } catch(err) {
+    console.log(err);
+  }
+}
+
+module.exports = Phone;

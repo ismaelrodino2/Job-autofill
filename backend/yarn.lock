@@ -1,0 +1,173 @@
+Express server: Server running on http://localhost:3000
+
+Express server: allInputs1
+
+Express server: Browser Console: allInputs2
+
+Express server: Browser Console: allInputs3 JSHandle@array
+
+Express server: Browser Console: asdasd
+Browser Console: asdasd _ngcontent-wbq-c50
+Browser Console: asdasd file
+
+Express server: Browser Console: asdasd type
+Browser Console: asdasd file-upload-input
+Browser Console: asdasd class
+
+Express server: Browser Console: asdasd file-upload-53c4537b-2381-4259-ad5c-1899d679c89c
+Browser Console: asdasd name
+Browser Console: asdasd .doc,.dot,.rmr,.rsm,.resume,.oxps,.pdf,.p7s,.ai,.rtf,.pages,.gdoc,.gslides,.xls,.xlsm,.pub,.msg,.ppt,.wps,.ods,.odt,.pptx,.ppsx,.xlsx,.docx,.dotx,.sxw,.wpd,.abw,.mp3,.m4a,.wav,.psd,.eml,.ical,.ics,.ifb,.icalendar,.ics_response,.csv,.txt,.text,.vcf,.mp4,.mov,.bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp
+Browser Console: asdasd accept
+Browser Console: asdasd
+Browser Console: asdasd _ngcontent-wbq-c50
+Browser Console: asdasd file
+
+Express server: Browser Console: asdasd type
+Browser Console: asdasd file-upload-input
+Browser Console: asdasd class
+Browser Console: asdasd file-upload-134e3a24-9d5f-4d10-bc4a-47c2316583db
+Browser Console: asdasd name
+Browser Console: asdasd .bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp
+Browser Console: asdasd accept
+Browser Console: asdasd firstName
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd first-name-input
+Browser Console: asdasd id
+Browser Console: asdasd personal-info-first-name-input
+Browser Console: asdasd data-test
+Browser Console: asdasd given-name
+Browser Console: asdasd autocomplete
+Browser Console: asdasd true
+Browser Console: asdasd aria-required
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-invalid
+Browser Console: asdasd class
+Browser Console: asdasd lastName
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd last-name-input
+Browser Console: asdasd id
+
+Express server: Browser Console: asdasd personal-info-last-name-input
+Browser Console: asdasd data-test
+Browser Console: asdasd family-name
+Browser Console: asdasd autocomplete
+Browser Console: asdasd true
+Browser Console: asdasd aria-required
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-invalid
+Browser Console: asdasd class
+Browser Console: asdasd email
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd email
+Browser Console: asdasd type
+Browser Console: asdasd email-input
+Browser Console: asdasd id
+Browser Console: asdasd personal-info-email-input
+Browser Console: asdasd data-test
+Browser Console: asdasd email
+Browser Console: asdasd autocomplete
+Browser Console: asdasd true
+Browser Console: asdasd aria-required
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-invalid
+Browser Console: asdasd class
+Browser Console: asdasd emailConfirmation
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd email
+Browser Console: asdasd type
+Browser Console: asdasd confirm-email-input
+Browser Console: asdasd id
+Browser Console: asdasd personal-info-email-confirm-input
+Browser Console: asdasd data-test
+Browser Console: asdasd email
+Browser Console: asdasd autocomplete
+Browser Console: asdasd true
+Browser Console: asdasd aria-required
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-invalid
+Browser Console: asdasd class
+Browser Console: asdasd element--input element--block
+Browser Console: asdasd class
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd Enter city name
+Browser Console: asdasd placeholder
+Browser Console: asdasd City
+Browser Console: asdasd aria-label
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd sr-location-autocomplete element--input element--block
+Browser Console: asdasd class
+Browser Console: asdasd
+Browser Console: asdasd placeholder
+Browser Console: asdasd Location
+Browser Console: asdasd aria-label
+Browser Console: asdasd tel
+Browser Console: asdasd type
+Browser Console: asdasd phone-number-input
+Browser Console: asdasd id
+Browser Console: asdasd personal-info-phone-input
+Browser Console: asdasd data-test
+Browser Console: asdasd tel
+Browser Console: asdasd autocomplete
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-invalid
+Browser Console: asdasd class
+Browser Console: asdasd true
+Browser Console: asdasd aria-required
+Browser Console: asdasd 5123 4567
+Browser Console: asdasd placeholder
+Browser Console: asdasd 0
+Browser Console: asdasd data-intl-tel-input-id
+Browser Console: asdasd padding-left: 90px;
+Browser Console: asdasd style
+Browser Console: asdasd linkedIn
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd facebook
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd facebook-input
+Browser Console: asdasd id
+Browser Console: asdasd web-profiles-facebook
+Browser Console: asdasd data-test
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-valid
+Browser Console: asdasd class
+Browser Console: asdasd twitter
+Browser Console: asdasd formcontrolname
+
+Express server: Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd twitter-input
+Browser Console: asdasd id
+Browser Console: asdasd web-profiles-twitter
+Browser Console: asdasd data-test
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-valid
+Browser Console: asdasd class
+Browser Console: asdasd website
+Browser Console: asdasd formcontrolname
+Browser Console: asdasd text
+Browser Console: asdasd type
+Browser Console: asdasd website-input
+Browser Console: asdasd id
+Browser Console: asdasd web-profiles-website
+Browser Console: asdasd data-test
+Browser Console: asdasd element--input element--block ng-untouched ng-pristine ng-valid
+Browser Console: asdasd class
+Browser Console: asdasd
+Browser Console: asdasd _ngcontent-wbq-c50
+Browser Console: asdasd file
+Browser Console: asdasd type
+Browser Console: asdasd file-upload-input
+Browser Console: asdasd class
+Browser Console: asdasd file-upload-7d1cd688-fd71-4535-821e-a917dd49a481
+Browser Console: asdasd name
+Browser Console: asdasd .doc,.dot,.rmr,.rsm,.resume,.oxps,.pdf,.p7s,.ai,.rtf,.pages,.gdoc,.gslides,.xls,.xlsm,.pub,.msg,.ppt,.wps,.ods,.odt,.pptx,.ppsx,.xlsx,.docx,.dotx,.sxw,.wpd,.abw,.mp3,.m4a,.wav,.psd,.eml,.ical,.ics,.ifb,.icalendar,.ics_response,.csv,.txt,.text,.vcf,.mp4,.mov,.bmp,.gif,.jfif,.jpeg,.jpg,.png,.tif,.tiff,.webp
+Browser Console: asdasd accept
+Browser Console: asdasd hidden
+Browser Console: asdasd type
+Browser Console: asdasd double-call-id
+Browser Console: asdasd data-test
+Browser Console: asdasd 4029ae04-c3ad-4544-acc8-0532754ec417
+Browser Console: asdasd value
+allInputs2 undefined
+Input linkedin element not found.

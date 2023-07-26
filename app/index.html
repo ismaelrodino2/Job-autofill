@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Electron App</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <div>
+      <h1 class="header">Job filler</h1>
+      <button id="submit-btn" class="button">Open browser</button>
+      <button id="do-again-btn" class="button">Fill</button>
+    </div>
+
+    <script src="./script.js"></script>
+    <script>
+      document.getElementById("do-again-btn").addEventListener("click", async function() {
+        const url = "http://localhost:3000/run-test";
+    
+
+        const options = {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+        };
+
+        const response = await fetch(url, options);
+        const result = await response.text();
+      });
+    </script>
+  </body>
+</html>
