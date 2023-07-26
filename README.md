@@ -23,19 +23,8 @@ It's important to note that it may not work on all forms, as some may be differe
 - clone repo and "cd" into it
 - fill the .env
 - run `npm i` or `yarn`
-- cd backend `npm i`
+- cd backend `npm i` or `yarn`
 - run `npm start` or `yarn start`
-
-or
-
-- clone repo and "cd" into it
-- fill the .env
-- run `npm i` or `yarn`
-- cd backend `npm i`
-- run `npm run build`
-- go to dist folder 
-- copy your .env and paste inside dist
-- run the electron-puppeteer-job-filler file
 
 if you're not a programmer:
 
