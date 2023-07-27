@@ -2,22 +2,18 @@ const makeOperation = require("../findInput");
 const makeOperationInclude = require("../findInputInclude");
 
 async function Address(pageInstance) {
-
-    const targetValues = [
-        "Location",
-        "Address",
-        "City",
-        "address",
-        "location",
-        "city",
-        "location_autocomplete_label",
-        "job_application[location]",
-        "streetAddress"
-
+  const targetValues = [
+    "Location",
+    "City",
+    "location",
+    "city",
+    "location_autocomplete_label",
+    "job_application[location]",
+    "streetAddress",
   ];
 
   try {
-    const inputElement = await makeOperationInclude(targetValues, pageInstance)
+    const inputElement = await makeOperationInclude(targetValues, pageInstance);
     if (inputElement) {
       // Input element found, do something with it
       // For example, you can click or type in the input field
@@ -26,7 +22,7 @@ async function Address(pageInstance) {
     } else {
       console.log("Input number element not found.");
     }
-  } catch(err) {
+  } catch (err) {
     console.log(err);
   }
 }
